@@ -1,6 +1,7 @@
 # ALX React Project
 
 ## Learning Objectives
+
 By the end of this project, you should be able to explain to anyone, without the help of Google:
 
 - How to create a basic JavaScript application using React.
